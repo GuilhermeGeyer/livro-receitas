@@ -1,6 +1,6 @@
-#Strogonoff de frango
-**negrito** _italico_ :chicken
-###Ingredientes
+# Strogonoff de frango
+**negrito** _italico_ 🐔
+### Ingredientes
  - 1 quilo de peito d efrango sem pele
  - 1 tablete de caldo de galinha
 ###Modo de preparo
