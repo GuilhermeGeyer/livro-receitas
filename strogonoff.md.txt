@@ -1,5 +1,5 @@
 # Strogonoff de frango
-**negrito** _italico_ :chicken
+**negrito** _italico_ :chicken:
 ### Ingredientes
  - 1 quilo de peito de frango sem pele
  - 1 tablete de caldo de galinha
